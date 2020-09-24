@@ -4,7 +4,7 @@ import { Media } from 'reactstrap';
 import { Button } from 'reactstrap';
 
 const Project = props => {
-    const [media, setMedia] = useState(false)
+    //const [media, setMedia] = useState(false)
 
     return(
         <div>
