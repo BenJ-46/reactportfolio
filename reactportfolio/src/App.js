@@ -52,6 +52,28 @@ const App = () => {
         <Route path="/Contact" component={Contact} />
       </Switch>
      </nav> 
+
+    <section>
+      <footer>
+      <Navbar color="light" light expand="md">
+      <NavbarToggler onClick={toggle} />
+          <Collapse isOpen={isOpen} navbar>
+            <Nav className="mr-auto" navbar>
+              <NavItem>
+                <NavLink><Link to="/react-portfolio">Home</Link></NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink><Link to="/Portfolio">Portfolio</Link></NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink><Link to="/Contact">Contact</Link></NavLink>
+              </NavItem>
+            </Nav>
+          </Collapse>
+      </Navbar>
+      </footer>
+    </section>
+    
     </Router>
   )
 }
