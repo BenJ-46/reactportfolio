@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
 import Home from './pages/Home'
 import Portfolio from './pages/Portfolio'
 import Contact from './pages/Contact'
-// import Home from './pages/Home'
 import {
   Collapse,
   Navbar,
@@ -34,7 +33,7 @@ const App = () => {
           <Collapse isOpen={isOpen} navbar>
             <Nav className="mr-auto" navbar>
               <NavItem>
-                <NavLink><Link to="/react-portfolio">Home</Link></NavLink>
+                <NavLink><Link to="/">Home</Link></NavLink>
               </NavItem>
               <NavItem>
                 <NavLink><Link to="/Portfolio">Portfolio</Link></NavLink>
@@ -60,7 +59,7 @@ const App = () => {
           <Collapse isOpen={isOpen} navbar>
             <Nav className="mr-auto" navbar>
               <NavItem>
-                <NavLink><Link to="/react-portfolio">Home</Link></NavLink>
+                <NavLink><Link to="/">Home</Link></NavLink>
               </NavItem>
               <NavItem>
                 <NavLink><Link to="/Portfolio">Portfolio</Link></NavLink>

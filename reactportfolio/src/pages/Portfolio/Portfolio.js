@@ -3,7 +3,7 @@ import Project from '../../components/Project'
 import { Container } from 'reactstrap';
 import BiteWallet from '../../pictures/Bite-Wallet.png'
 import RanchHand from '../../pictures/RanchHand.png'
-import Notetaker from '../../pictures/Notetaker.png'
+import Notetaker from '../../pictures/NoteTaker.png'
 import Password from '../../pictures/PasswordGenerator.png'
 import Planner from '../../pictures/Planner.png'
 import Weather from '../../pictures/Weather.png'

@@ -4,7 +4,8 @@ import { Jumbotron, Button } from 'reactstrap';
 
 const Home = () => {
     return(
-        <div>
+        <>
+        
         <Jumbotron>
           <h1 className="display-3">Benjamin Jimenez</h1>
           <p className="lead">I am a 22 year old web development student. I have previously worked as a coffee barista, a bank teller, and construction materials lab technician.
@@ -15,9 +16,12 @@ const Home = () => {
             <Button href="https://github.com/BenJ-46" color="primary">Github</Button>
             <Button href="www.linkedin.com/in/benjamin-jimenez-1849121b1" color="primary">LinkedIn</Button>
           </p>
+        
         </Jumbotron>
-      </div>
+      </>
+      
     );
+    
   };
-
+  
 export default Home
