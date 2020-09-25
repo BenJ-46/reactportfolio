@@ -10,7 +10,7 @@ const Project = props => {
         <div>
         <Media>
           <Media left middle href="#">
-            <Media object data-src={props.picture} alt="Generic placeholder image" />
+            <Media src={props.picture} alt="Generic placeholder image" />
           </Media>
           <Media body>
             <Media heading>
