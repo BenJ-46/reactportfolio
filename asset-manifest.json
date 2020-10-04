@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/reactportfolio/static/js/main.00ab715a.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.00ab715a.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.ff3c2836.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.ff3c2836.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/reactportfolio/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.f8a58b07.chunk.js": "/reactportfolio/static/js/2.f8a58b07.chunk.js",
+    "static/js/2.f8a58b07.chunk.js.map": "/reactportfolio/static/js/2.f8a58b07.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "precache-manifest.59c31d000d4440075a5ad82ce62ad59e.js": "/reactportfolio/precache-manifest.59c31d000d4440075a5ad82ce62ad59e.js",
+    "service-worker.js": "/reactportfolio/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/reactportfolio/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/js/2.f8a58b07.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.f8a58b07.chunk.js.LICENSE.txt",
+    "static/media/RanchHand.png": "/reactportfolio/static/media/RanchHand.5d85fb42.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff3c2836.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.f8a58b07.chunk.js",
+    "static/js/main.00ab715a.chunk.js"
+  ]
+}
